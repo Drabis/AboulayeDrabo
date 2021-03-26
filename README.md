@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aboulaye Drabo
-- 👀 I’m interested in being a full stack developer 
+- 👀 I’m a junior developer 
 - 🌱 I’m currently learning coding a Columbia Universty coding camp
 - 💞️ I’m looking to collaborate on reinforcing my knowledge and work ethic by working on different interesting projects
 - 📫 How to reach me ... Drabis47@gmail.com and  www.github.com/Drabis
