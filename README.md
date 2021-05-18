@@ -2,7 +2,6 @@
 - 👀 I’m a web developer 
 - 🌱 I’m currently learning ful-stack development at Columbia Universty coding camp
 - 🛠 I'm using HTML, CSS, JavaScript, jQuery, Node, SQL, express and React
-- 💞️ I’m looking to collaborate on reinforcing my knowledge and work ethic by working on different interesting projects
 - 📫 How to reach me ... Drabis47@gmail.com and  www.github.com/Drabis
 
 <!---
